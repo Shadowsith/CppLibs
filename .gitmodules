@@ -1,0 +1,24 @@
+[submodule "json"]
+	path = json
+	url = https://github.com/nlohmann/json
+[submodule "fmt"]
+	path = fmt
+	url = https://github.com/fmtlib/fmt
+[submodule "date"]
+	path = date
+	url = https://github.com/HowardHinnant/date
+[submodule "boolinq"]
+	path = boolinq
+	url = https://github.com/k06a/boolinq
+[submodule "tinyxml2"]
+	path = tinyxml2
+	url = https://github.com/leethomason/tinyxml2
+[submodule "yaml-cpp"]
+	path = yaml-cpp
+	url = https://github.com/jbeder/yaml-cpp.git
+[submodule "Catch2"]
+	path = Catch2
+	url = https://github.com/catchorg/Catch2.git
+[submodule "decimal_for_cpp"]
+	path = decimal_for_cpp
+	url = https://github.com/vpiotr/decimal_for_cpp.git
