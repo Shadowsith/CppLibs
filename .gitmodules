@@ -22,3 +22,6 @@
 [submodule "decimal_for_cpp"]
 	path = decimal_for_cpp
 	url = https://github.com/vpiotr/decimal_for_cpp.git
+[submodule "curlpp"]
+	path = curlpp
+	url = https://github.com/jpbarrette/curlpp.git
