@@ -25,3 +25,15 @@
 [submodule "curlpp"]
 	path = curlpp
 	url = https://github.com/jpbarrette/curlpp.git
+[submodule "cpp-httplib"]
+	path = cpp-httplib
+	url = https://github.com/yhirose/cpp-httplib
+[submodule "aes-everywhere"]
+	path = aes-everywhere
+	url = https://github.com/mervick/aes-everywhere
+[submodule "IniParserPP"]
+	path = IniParserPP
+	url = https://github.com/Shadowsith/IniParserPP
+[submodule "hash-library"]
+	path = hash-library
+	url = https://github.com/stbrumme/hash-library.git
